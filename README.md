@@ -16,22 +16,53 @@ This repository contains all projects completed during the ApexPlanet Data Analy
 
 ## Internship Tasks
 
-### Task 1 - Data Immersion & Wrangling
-Data cleaning and preprocessing.
+## Internship Projects
+
+| Task | Description | Repository |
+|------|-------------|------------|
+| Task 1 | Data Immersion & Wrangling | [View Project](https://github.com/SriUnnikrishnan/Task1-Data-Wrangling) |
+| Task 2 | Exploratory Data Analysis | [View Project](https://github.com/SriUnnikrishnan/Task-2-EDA) |
+| Task 3 | Interactive Dashboard | [View Project](https://github.com/SriUnnikrishnan/interactive-sales-dashboard) |
+| Task 4 | Data Storytelling & Customer Analysis | [View Project](https://github.com/SriUnnikrishnan/Task-4-Customer-Analysis) |
+
+## Internship Journey
+
+### Task 1 - Data Wrangling
+- Data cleaning and preprocessing
+- Missing value handling
+- Data transformation
+- Dataset preparation
 
 ### Task 2 - Exploratory Data Analysis
-Statistical analysis and visualizations.
+- Statistical analysis
+- SQL queries
+- Business insights
+- Data visualization
 
 ### Task 3 - Interactive Dashboard
-Power BI dashboard development.
+- KPI tracking
+- Dashboard creation in Power BI
+- Interactive reports
+- Business intelligence
 
 ### Task 4 - Data Storytelling
-Presentation and hypothesis testing.
+- Customer analysis
+- Business recommendations
+- Presentation development
+- Decision-making insights
 
-## Skills Demonstrated
-- Data Cleaning
-- Data Analysis
+## Technical Skills Demonstrated
+
+- Python
+- Pandas
+- NumPy
 - SQL
-- Dashboard Design
-- Business Intelligence
+- Power BI
+- Data Cleaning
 - Data Visualization
+- Exploratory Data Analysis
+- Dashboard Development
+- Business Intelligence
+- Statistical Analysis
+- Data Storytelling
+- Git & GitHub
